@@ -1,0 +1,10 @@
+
+
+
+dependencies: {
+  "kendo": "^5.x", // this is probably just the JS
+  "react": "^0.14"
+},
+devDependencies: {
+
+}
